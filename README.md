@@ -139,7 +139,7 @@ We implemented the brand new library from TensorFlow which is TensorFlow Decisio
 - Random Forest Algorithm
 
 <p align="center">
-    <img src="./images/randomforest.png">
+    <img src="images\Random Forest 03.gif", height=200>
 </p>
 
 Random forest is a supervised machine learning algorithm consisting of many decision trees that operate as an ensemble. It can be used for both regression and classification tasks. In this algorithm, there is no need to specify an architecture (for example, by trying different combinations of layers like in a neural network). Even with default hyperparameters already give high accuracy. Once the model is trained, we can directly plot the accuracy. We use this model for classification tasks and work well with tabular data. Our task is to classify the diseases based on its symptoms. So that's why this algorithm will be suited well with this kind of problem.
