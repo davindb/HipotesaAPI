@@ -29,9 +29,11 @@
     <br />
     <a href="https://github.com/davindb/HipotesaAlgorithm/">View Demo</a>
     ·
-    <a href="https://github.com/davindb/HipotesaAlgorithm/issues">Report Bug</a>
+    <a href="http://www.hipotesa.tech/">Our Website</a>
     ·
     <a href="https://github.com/davindb/HipotesaAlgorithm/#contributing">Contribute</a>
+    ·
+     <a href="https://github.com/davindb/HipotesaAlgorithm/issues">Report Bug</a>
   </p>
 </p>
 
