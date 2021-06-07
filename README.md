@@ -174,9 +174,9 @@ Since we thought the model was already good enough, we decided to continue the p
 
 Check our other repositories to know more about Hipotesa.
 
-- [Hipotesa Project]()
+- [Hipotesa Project](https://github.com/davindb/HipotesaProject)
 - [Hipotesa Application]()
-- [Hipotesa Rest API & Cloud Management]()
+- [Hipotesa Rest API & Cloud Management](https://github.com/Guscah/HipotesaRestAPI)
 
 <!-- TEAM MEMBERS -->
 
