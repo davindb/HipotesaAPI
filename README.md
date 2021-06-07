@@ -24,7 +24,7 @@
   <p align="center">
     An AI based healthcare system aims to help patients to detect their disease at an early stage to be able to identify the treatment plan early on and help them secure a good way to live.
     <br />
-    <a href="https://github.com/davindb/HipotesaAlgorithm#about-the-project"><strong>Let's Get Started »</strong></a>
+    <a href="https://github.com/davindb/HipotesaProject#readmet"><strong>Go to the project »</strong></a>
     <br />
     <br />
     <a href="https://github.com/davindb/HipotesaAlgorithm/">View Demo</a>
