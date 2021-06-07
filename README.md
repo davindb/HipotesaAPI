@@ -146,7 +146,7 @@ Random forest is a supervised machine learning algorithm consisting of many deci
 
 ## Build The Model
 
-First, we preprocessed the data using **Pandas** and **Numpy** before we fit the data to the model. We specify which was the label and which was the features. After that, we splitted the data into two things, the training data and the test data. We splitted it by 70 % of the training data and 30 % of the test data. As you can see on the figure below the shape of the data.
+First, we preprocessed the data using **Pandas** and **Numpy** before we fitted the data to the model. We specified which was the label and which were the features. After that, we splitted the data into two things, the training data and the test data. We splitted it by 70% for the training data and 30% for the test data. As you can see on the figure of the shape of the data below.
 
 <p align="center">
     <img src="./images/traindata_and_testdata.PNG">
