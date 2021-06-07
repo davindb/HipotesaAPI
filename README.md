@@ -103,7 +103,7 @@ This is an overview of Hipotesa Algorithm, what the prequisites are, how the alg
 
 ### Installation
 
-We recommend you to install it on the linux machine (for windows user you are recommended to use Windows Subsystem Linux (WSL) or just use Google Collab)
+We recommend you to install it on the linux machine (for windows user you are recommended to use Windows Subsystem Linux (WSL) or just use Google Colab)
 
 1. Clone the repository
    ```sh
@@ -115,7 +115,7 @@ We recommend you to install it on the linux machine (for windows user you are re
    ```sh
    $ pip install -r requirements.txt
    ```
-3. You can run this project on your local machine if you want to us jupyter notebook
+3. You can run this project on your local machine using jupyter notebook
    ```sh
    $ jupyter-notebook
    ```
