@@ -126,7 +126,7 @@ This is the original dataset:
 
 - [Disease Symptom Prediction](https://www.kaggle.com/itachi9604/disease-symptom-description-dataset)
 
-We used and improved the **Disease Symptom Prediction** dataset that provided on Kaggle. We improved the data because there were misspelling words on the data. We recommend you to just use the dataset on this repository.
+We used and improved the **Disease Symptom Prediction** dataset that provided on Kaggle. We improved the data because there were misspelling words on the data. We recommend you to just use the dataset from our repositories.
 
 ## Algorithm
 
