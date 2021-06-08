@@ -111,7 +111,7 @@ We recommend you to install it on the linux machine (for windows user you are re
    ```sh
    $ git clone https://github.com/davindb/HipotesaAlgorithm.git
    #change directory to the repository folder
-   $ cd HipotesaAlgorithm/Algorithm
+   $ cd HipotesaAlgorithm
    ```
 2. Install required packages
    ```sh
